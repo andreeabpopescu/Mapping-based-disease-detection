@@ -1,0 +1,2156 @@
+{
+   "1153261575": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 994.9591333333333,
+         "lower_quartile": 940.3333333333334,
+         "median": 981.3333333333334,
+         "upper_quartile": 1037.6666666666667
+      },
+      "T2": {
+         "average": 58.671299999999995,
+         "lower_quartile": 48.18222268422445,
+         "median": 53.73914400736491,
+         "upper_quartile": 65.54883639017741
+      }
+   },
+   "1263906739": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 971.4049666666666,
+         "lower_quartile": 900.6666666666666,
+         "median": 947.3333333333334,
+         "upper_quartile": 1021.0
+      },
+      "T2": {
+         "average": 47.74623333333333,
+         "lower_quartile": 42.93972078959147,
+         "median": 46.56265958150228,
+         "upper_quartile": 50.89927832285563
+      }
+   },
+   "1311206762": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 1037.7836,
+         "lower_quartile": 978.0,
+         "median": 1027.5,
+         "upper_quartile": 1088.0
+      },
+      "T2": {
+         "average": 52.94896666666667,
+         "lower_quartile": 48.50982983907064,
+         "median": 51.70332717895508,
+         "upper_quartile": 56.36279042561849
+      }
+   },
+   "1436565131": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 1002.8186499999999,
+         "lower_quartile": 953.9375,
+         "median": 999.0,
+         "upper_quartile": 1053.0
+      },
+      "T2": {
+         "average": 55.559799999999996,
+         "lower_quartile": 49.134684562683105,
+         "median": 53.071529388427734,
+         "upper_quartile": 59.80645434061686
+      }
+   },
+   "1620581988": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 1003.8655333333332,
+         "lower_quartile": 957.6666666666666,
+         "median": 996.6666666666666,
+         "upper_quartile": 1041.4166666666667
+      },
+      "T2": {
+         "average": 50.41446666666667,
+         "lower_quartile": 46.370035807291664,
+         "median": 49.49518394470215,
+         "upper_quartile": 53.16014130910238
+      }
+   },
+   "1740392526": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 989.5043999999999,
+         "lower_quartile": 946.0,
+         "median": 974.3333333333334,
+         "upper_quartile": 1024.0
+      },
+      "T2": {
+         "average": 50.09793333333334,
+         "lower_quartile": 45.75260480244955,
+         "median": 48.52205149332682,
+         "upper_quartile": 52.87775675455729
+      }
+   },
+   "1770145525": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 978.6347000000001,
+         "lower_quartile": 924.75,
+         "median": 965.75,
+         "upper_quartile": 1026.0
+      },
+      "T2": {
+         "average": 54.3963,
+         "lower_quartile": 48.59279219309489,
+         "median": 52.492676417032875,
+         "upper_quartile": 58.75501505533854
+      }
+   },
+   "1790414002": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 1028.1064,
+         "lower_quartile": 979.9166666666666,
+         "median": 1015.6666666666666,
+         "upper_quartile": 1062.4166666666667
+      },
+      "T2": {
+         "average": 54.86403333333333,
+         "lower_quartile": 49.304665883382164,
+         "median": 52.94743982950846,
+         "upper_quartile": 58.272714614868164
+      }
+   },
+   "1851804450": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 1061.27612,
+         "lower_quartile": 990.8,
+         "median": 1041.7,
+         "upper_quartile": 1108.6
+      },
+      "T2": {
+         "average": 60.152633333333334,
+         "lower_quartile": 51.94586054484049,
+         "median": 56.5644588470459,
+         "upper_quartile": 64.08907826741536
+      }
+   },
+   "1893145647": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 903.7954,
+         "lower_quartile": 864.6666666666666,
+         "median": 893.3333333333334,
+         "upper_quartile": 932.0
+      },
+      "T2": {
+         "average": 47.9997,
+         "lower_quartile": 44.007988929748535,
+         "median": 46.57345835367838,
+         "upper_quartile": 50.22839196523031
+      }
+   },
+   "2007475765": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 1003.0802,
+         "lower_quartile": 967.3333333333334,
+         "median": 994.0,
+         "upper_quartile": 1028.6666666666667
+      },
+      "T2": {
+         "average": 54.11526666666666,
+         "lower_quartile": 49.63055451711019,
+         "median": 52.34759203592936,
+         "upper_quartile": 56.484625816345215
+      }
+   },
+   "2054165732": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 968.2677666666667,
+         "lower_quartile": 932.6666666666666,
+         "median": 965.8333333333334,
+         "upper_quartile": 1001.25
+      },
+      "T2": {
+         "average": 46.19896666666667,
+         "lower_quartile": 42.518372535705566,
+         "median": 44.73888270060221,
+         "upper_quartile": 48.18050797780355
+      }
+   },
+   "2062797950": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 1023.9799666666667,
+         "lower_quartile": 965.8333333333334,
+         "median": 1017.6666666666666,
+         "upper_quartile": 1077.5
+      },
+      "T2": {
+         "average": 50.01543333333333,
+         "lower_quartile": 45.798024813334145,
+         "median": 48.552760442097984,
+         "upper_quartile": 52.32206789652506
+      }
+   },
+   "2081687377": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 927.3168666666667,
+         "lower_quartile": 893.3333333333334,
+         "median": 919.3333333333334,
+         "upper_quartile": 953.0
+      },
+      "T2": {
+         "average": 47.68430000000001,
+         "lower_quartile": 42.53181457519531,
+         "median": 45.8775266011556,
+         "upper_quartile": 50.67675908406576
+      }
+   },
+   "2097765772": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 1018.0897666666666,
+         "lower_quartile": 973.5,
+         "median": 1008.6666666666666,
+         "upper_quartile": 1051.6666666666667
+      },
+      "T2": {
+         "average": 50.5256,
+         "lower_quartile": 47.15865516662598,
+         "median": 49.5314884185791,
+         "upper_quartile": 52.77305221557617
+      }
+   },
+   "2109441453": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 1045.0965999999999,
+         "lower_quartile": 983.1666666666666,
+         "median": 1029.6666666666667,
+         "upper_quartile": 1096.4166666666667
+      },
+      "T2": {
+         "average": 48.86520000000001,
+         "lower_quartile": 45.22611554463705,
+         "median": 47.72668711344401,
+         "upper_quartile": 51.03756141662598
+      }
+   },
+   "2227001179": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 964.4753666666666,
+         "lower_quartile": 919.5,
+         "median": 951.6666666666666,
+         "upper_quartile": 1000.75
+      },
+      "T2": {
+         "average": 66.9558,
+         "lower_quartile": 61.13250573476156,
+         "median": 65.12669690450032,
+         "upper_quartile": 70.8903242746989
+      }
+   },
+   "2254000871": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 922.8744,
+         "lower_quartile": 885.0,
+         "median": 913.3333333333334,
+         "upper_quartile": 951.0
+      },
+      "T2": {
+         "average": 48.51303333333333,
+         "lower_quartile": 44.12722237904867,
+         "median": 46.937575022379555,
+         "upper_quartile": 51.33541774749756
+      }
+   },
+   "2264998802": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 1001.7133333333335,
+         "lower_quartile": 963.3333333333334,
+         "median": 998.5,
+         "upper_quartile": 1037.6666666666667
+      },
+      "T2": {
+         "average": 47.41706666666667,
+         "lower_quartile": 43.26011371612549,
+         "median": 46.17107582092285,
+         "upper_quartile": 49.774566968282066
+      }
+   },
+   "2399397412": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 954.0986666666668,
+         "lower_quartile": 924.1666666666666,
+         "median": 952.6666666666666,
+         "upper_quartile": 983.0
+      },
+      "T2": {
+         "average": 47.921366666666664,
+         "lower_quartile": 44.584224700927734,
+         "median": 47.13829549153646,
+         "upper_quartile": 50.154005686442055
+      }
+   },
+   "2492618698": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 1099.2447,
+         "lower_quartile": 1043.4166666666667,
+         "median": 1080.0,
+         "upper_quartile": 1133.6666666666667
+      },
+      "T2": {
+         "average": 58.374766666666666,
+         "lower_quartile": 50.814961433410645,
+         "median": 55.117654164632164,
+         "upper_quartile": 61.58023198445638
+      }
+   },
+   "2524696027": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 956.0878666666667,
+         "lower_quartile": 913.8333333333334,
+         "median": 949.3333333333334,
+         "upper_quartile": 997.6666666666666
+      },
+      "T2": {
+         "average": 48.16310000000001,
+         "lower_quartile": 42.037695248921715,
+         "median": 45.526672999064125,
+         "upper_quartile": 51.18236414591471
+      }
+   },
+   "2569674388": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 894.1547,
+         "lower_quartile": 851.5,
+         "median": 888.75,
+         "upper_quartile": 929.125
+      },
+      "T2": {
+         "average": 46.37076666666667,
+         "lower_quartile": 42.18277676900228,
+         "median": 45.296662012736,
+         "upper_quartile": 49.18309211730957
+      }
+   },
+   "2574967551": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 976.0829666666667,
+         "lower_quartile": 932.5,
+         "median": 968.0,
+         "upper_quartile": 1012.75
+      },
+      "T2": {
+         "average": 53.961066666666675,
+         "lower_quartile": 47.0386594136556,
+         "median": 52.45643870035807,
+         "upper_quartile": 58.73110771179199
+      }
+   },
+   "2600134357": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 954.0775,
+         "lower_quartile": 908.5833333333334,
+         "median": 941.1666666666666,
+         "upper_quartile": 991.1666666666666
+      },
+      "T2": {
+         "average": 51.12786666666667,
+         "lower_quartile": 44.750389099121094,
+         "median": 48.427354176839195,
+         "upper_quartile": 54.81023597717285
+      }
+   },
+   "2617054826": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 957.71155,
+         "lower_quartile": 885.0,
+         "median": 942.5,
+         "upper_quartile": 1021.375
+      },
+      "T2": {
+         "average": 51.189600000000006,
+         "lower_quartile": 45.30008411407471,
+         "median": 49.69672648111979,
+         "upper_quartile": 55.92482980092367
+      }
+   },
+   "2717656440": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 974.7338500000001,
+         "lower_quartile": 927.5,
+         "median": 971.5,
+         "upper_quartile": 1019.375
+      },
+      "T2": {
+         "average": 50.92755,
+         "lower_quartile": 45.7676100730896,
+         "median": 49.67270851135254,
+         "upper_quartile": 54.64017868041992
+      }
+   },
+   "2770231176": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 1033.7561666666668,
+         "lower_quartile": 978.0,
+         "median": 1022.6666666666666,
+         "upper_quartile": 1076.6666666666667
+      },
+      "T2": {
+         "average": 58.736266666666666,
+         "lower_quartile": 52.701754887898765,
+         "median": 57.3117790222168,
+         "upper_quartile": 63.84992186228434
+      }
+   },
+   "2780179508": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 987.6311666666667,
+         "lower_quartile": 953.1666666666666,
+         "median": 987.0,
+         "upper_quartile": 1024.6666666666667
+      },
+      "T2": {
+         "average": 52.23336666666666,
+         "lower_quartile": 45.318695068359375,
+         "median": 48.425299326578774,
+         "upper_quartile": 55.32915337880453
+      }
+   },
+   "2793446033": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 948.1801666666667,
+         "lower_quartile": 914.6666666666666,
+         "median": 945.6666666666666,
+         "upper_quartile": 979.9166666666666
+      },
+      "T2": {
+         "average": 46.958200000000005,
+         "lower_quartile": 42.56221834818522,
+         "median": 45.309427897135414,
+         "upper_quartile": 49.21967887878418
+      }
+   },
+   "2803863206": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 951.6218333333333,
+         "lower_quartile": 924.3333333333334,
+         "median": 948.5,
+         "upper_quartile": 977.8333333333334
+      },
+      "T2": {
+         "average": 51.21586666666667,
+         "lower_quartile": 45.80482292175293,
+         "median": 48.94352277119955,
+         "upper_quartile": 53.38474655151367
+      }
+   },
+   "2839474233": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 939.5042,
+         "lower_quartile": 878.8333333333334,
+         "median": 934.0,
+         "upper_quartile": 992.6666666666666
+      },
+      "T2": {
+         "average": 52.230399999999996,
+         "lower_quartile": 47.1113551457723,
+         "median": 50.033528645833336,
+         "upper_quartile": 54.73535315195719
+      }
+   },
+   "2882763032": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 941.5378666666667,
+         "lower_quartile": 900.6666666666666,
+         "median": 942.3333333333334,
+         "upper_quartile": 987.4166666666666
+      },
+      "T2": {
+         "average": 48.731433333333335,
+         "lower_quartile": 45.25921948750814,
+         "median": 47.6839911142985,
+         "upper_quartile": 50.83591492970785
+      }
+   },
+   "2889870250": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 964.53305,
+         "lower_quartile": 924.375,
+         "median": 969.0,
+         "upper_quartile": 1007.5
+      },
+      "T2": {
+         "average": 51.60255,
+         "lower_quartile": 47.484028816223145,
+         "median": 50.32012176513672,
+         "upper_quartile": 54.1397705078125
+      }
+   },
+   "2940947182": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 973.5375333333333,
+         "lower_quartile": 912.0,
+         "median": 974.0,
+         "upper_quartile": 1030.8333333333333
+      },
+      "T2": {
+         "average": 64.83883333333334,
+         "lower_quartile": 58.329115549723305,
+         "median": 63.37079747517904,
+         "upper_quartile": 69.67670186360677
+      }
+   },
+   "3001688511": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 990.8104,
+         "lower_quartile": 952.6666666666666,
+         "median": 983.6666666666666,
+         "upper_quartile": 1021.0
+      },
+      "T2": {
+         "average": 60.34263333333333,
+         "lower_quartile": 53.57296498616537,
+         "median": 57.641693115234375,
+         "upper_quartile": 64.11495018005371
+      }
+   },
+   "3072572561": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 961.9536499999999,
+         "lower_quartile": 913.625,
+         "median": 961.5,
+         "upper_quartile": 1008.0
+      },
+      "T2": {
+         "average": 52.552724999999995,
+         "lower_quartile": 45.15335822105408,
+         "median": 49.75010824203491,
+         "upper_quartile": 57.01127576828003
+      }
+   },
+   "3095641885": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 942.6379000000001,
+         "lower_quartile": 904.0,
+         "median": 943.0,
+         "upper_quartile": 987.3333333333334
+      },
+      "T2": {
+         "average": 52.158366666666666,
+         "lower_quartile": 46.54456901550293,
+         "median": 49.87734603881836,
+         "upper_quartile": 55.54639212290446
+      }
+   },
+   "3348389519": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 967.1648,
+         "lower_quartile": 924.25,
+         "median": 956.1666666666666,
+         "upper_quartile": 997.0
+      },
+      "T2": {
+         "average": 47.93665,
+         "lower_quartile": 43.405466079711914,
+         "median": 46.637529373168945,
+         "upper_quartile": 51.21414852142334
+      }
+   },
+   "4225548228": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 997.2943,
+         "lower_quartile": 946.0,
+         "median": 993.5,
+         "upper_quartile": 1050.0833333333333
+      },
+      "T2": {
+         "average": 53.426566666666666,
+         "lower_quartile": 47.21750672658285,
+         "median": 51.86807060241699,
+         "upper_quartile": 58.216498692830406
+      }
+   },
+   "4727369904": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 986.1981999999999,
+         "lower_quartile": 918.0,
+         "median": 983.3333333333334,
+         "upper_quartile": 1041.0833333333333
+      },
+      "T2": {
+         "average": 55.74073333333334,
+         "lower_quartile": 48.224692026774086,
+         "median": 53.48641840616862,
+         "upper_quartile": 60.81326834360758
+      }
+   },
+   "4908398454": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 1022.2353666666668,
+         "lower_quartile": 962.5833333333334,
+         "median": 1023.8333333333334,
+         "upper_quartile": 1076.0
+      },
+      "T2": {
+         "average": 55.379466666666666,
+         "lower_quartile": 48.4288641611735,
+         "median": 52.79306284586588,
+         "upper_quartile": 59.745753606160484
+      }
+   },
+   "6314601971": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 995.2090666666667,
+         "lower_quartile": 928.3333333333334,
+         "median": 978.3333333333334,
+         "upper_quartile": 1052.9166666666667
+      },
+      "T2": {
+         "average": 54.337066666666665,
+         "lower_quartile": 48.697537104288735,
+         "median": 53.588704427083336,
+         "upper_quartile": 59.07978598276774
+      }
+   },
+   "7736302836": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 972.6054333333335,
+         "lower_quartile": 924.3333333333334,
+         "median": 966.3333333333334,
+         "upper_quartile": 1010.1666666666666
+      },
+      "T2": {
+         "average": 49.720466666666674,
+         "lower_quartile": 44.53745174407959,
+         "median": 48.25043932596842,
+         "upper_quartile": 52.79771455128988
+      }
+   },
+   "8180928484": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 979.7980666666666,
+         "lower_quartile": 931.75,
+         "median": 980.1666666666666,
+         "upper_quartile": 1025.3333333333333
+      },
+      "T2": {
+         "average": 49.7429,
+         "lower_quartile": 45.08998235066732,
+         "median": 48.48371569315592,
+         "upper_quartile": 52.86450386047363
+      }
+   },
+   "9218141675": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 1036.3389750000001,
+         "lower_quartile": 951.9375,
+         "median": 1012.625,
+         "upper_quartile": 1098.6875
+      },
+      "T2": {
+         "average": 49.394275,
+         "lower_quartile": 45.00424575805664,
+         "median": 48.26357412338257,
+         "upper_quartile": 52.33868646621704
+      }
+   },
+   "9579975694": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 1022.5579,
+         "lower_quartile": 963.75,
+         "median": 1000.0,
+         "upper_quartile": 1062.5
+      },
+      "T2": {
+         "average": 55.74086666666667,
+         "lower_quartile": 49.2826452255249,
+         "median": 52.7639586130778,
+         "upper_quartile": 59.272970835367836
+      }
+   },
+   "9657432509": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 940.2911,
+         "lower_quartile": 898.25,
+         "median": 935.5,
+         "upper_quartile": 978.3333333333334
+      },
+      "T2": {
+         "average": 49.3341,
+         "lower_quartile": 44.89561907450358,
+         "median": 48.013633728027344,
+         "upper_quartile": 52.42737642923991
+      }
+   },
+   "9963191055": {
+      "disease": "myokarditis",
+      "T1_pre": {
+         "average": 995.2913249999999,
+         "lower_quartile": 955.625,
+         "median": 991.0,
+         "upper_quartile": 1035.5
+      },
+      "T2": {
+         "average": 50.145224999999996,
+         "lower_quartile": 44.61482858657837,
+         "median": 48.72544813156128,
+         "upper_quartile": 54.09610652923584
+      }
+   },
+   "1074880756": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 885.5363666666666,
+         "lower_quartile": 840.5833333333334,
+         "median": 881.3333333333334,
+         "upper_quartile": 925.0
+      },
+      "T2": {
+         "average": 47.47389999999999,
+         "lower_quartile": 39.5396302541097,
+         "median": 42.811991373697914,
+         "upper_quartile": 48.020121256510414
+      }
+   },
+   "1155830824": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 986.79665,
+         "lower_quartile": 938.375,
+         "median": 971.25,
+         "upper_quartile": 1022.625
+      },
+      "T2": {
+         "average": 53.219766666666665,
+         "lower_quartile": 45.21111138661703,
+         "median": 50.196760177612305,
+         "upper_quartile": 57.397548039754234
+      }
+   },
+   "1240326769": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 958.4744666666666,
+         "lower_quartile": 911.3333333333334,
+         "median": 951.3333333333334,
+         "upper_quartile": 1000.3333333333334
+      },
+      "T2": {
+         "average": 50.92483333333333,
+         "lower_quartile": 45.79549503326416,
+         "median": 48.31622123718262,
+         "upper_quartile": 53.26269721984863
+      }
+   },
+   "1255612815": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 1002.8635666666668,
+         "lower_quartile": 931.5833333333334,
+         "median": 974.8333333333334,
+         "upper_quartile": 1050.0833333333333
+      },
+      "T2": {
+         "average": 51.806733333333334,
+         "lower_quartile": 45.274818420410156,
+         "median": 48.769625981648765,
+         "upper_quartile": 55.00375207265218
+      }
+   },
+   "1257101498": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 914.4006333333333,
+         "lower_quartile": 879.0833333333334,
+         "median": 912.3333333333334,
+         "upper_quartile": 945.6666666666666
+      },
+      "T2": {
+         "average": 53.249599999999994,
+         "lower_quartile": 48.17808214823405,
+         "median": 51.94727897644043,
+         "upper_quartile": 56.901668548583984
+      }
+   },
+   "1303143681": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 934.7361333333333,
+         "lower_quartile": 887.5833333333334,
+         "median": 929.3333333333334,
+         "upper_quartile": 974.1666666666666
+      },
+      "T2": {
+         "average": 49.40136666666667,
+         "lower_quartile": 44.14199733734131,
+         "median": 47.69372367858887,
+         "upper_quartile": 53.37785975138346
+      }
+   },
+   "1415804853": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 964.6726,
+         "lower_quartile": 930.8333333333334,
+         "median": 960.0,
+         "upper_quartile": 990.6666666666666
+      },
+      "T2": {
+         "average": 48.96286666666666,
+         "lower_quartile": 42.8470786412557,
+         "median": 45.76227124532064,
+         "upper_quartile": 51.11084588368734
+      }
+   },
+   "1445075805": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 940.0483666666665,
+         "lower_quartile": 895.6666666666666,
+         "median": 947.5,
+         "upper_quartile": 990.75
+      },
+      "T2": {
+         "average": 49.56773333333333,
+         "lower_quartile": 44.15847682952881,
+         "median": 47.6925048828125,
+         "upper_quartile": 52.421911557515465
+      }
+   },
+   "1447033695": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 919.4802,
+         "lower_quartile": 885.5,
+         "median": 917.0,
+         "upper_quartile": 958.1666666666666
+      },
+      "T2": {
+         "average": 48.84723333333333,
+         "lower_quartile": 44.15551630655924,
+         "median": 47.12764676411947,
+         "upper_quartile": 51.11392752329508
+      }
+   },
+   "1508967033": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 915.3484666666667,
+         "lower_quartile": 882.6666666666666,
+         "median": 911.6666666666666,
+         "upper_quartile": 941.6666666666666
+      },
+      "T2": {
+         "average": 45.2433,
+         "lower_quartile": 41.50404071807861,
+         "median": 43.83210245768229,
+         "upper_quartile": 47.277999560038246
+      }
+   },
+   "1560660351": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 951.2401999999998,
+         "lower_quartile": 910.25,
+         "median": 946.0,
+         "upper_quartile": 985.8333333333334
+      },
+      "T2": {
+         "average": 51.051700000000004,
+         "lower_quartile": 45.60860697428385,
+         "median": 48.572699228922524,
+         "upper_quartile": 53.34181149800619
+      }
+   },
+   "1730954733": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 888.2105,
+         "lower_quartile": 853.3333333333334,
+         "median": 889.3333333333334,
+         "upper_quartile": 926.25
+      },
+      "T2": {
+         "average": 48.09523333333333,
+         "lower_quartile": 44.05535157521566,
+         "median": 47.418347676595054,
+         "upper_quartile": 51.08625857035319
+      }
+   },
+   "1753884082": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 937.0687666666666,
+         "lower_quartile": 900.3333333333334,
+         "median": 928.0,
+         "upper_quartile": 968.0
+      },
+      "T2": {
+         "average": 52.170433333333335,
+         "lower_quartile": 46.01629892985026,
+         "median": 49.24281438191732,
+         "upper_quartile": 55.10049565633138
+      }
+   },
+   "1826553402": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 934.2574000000001,
+         "lower_quartile": 889.0,
+         "median": 927.0,
+         "upper_quartile": 970.9166666666666
+      },
+      "T2": {
+         "average": 49.15866666666667,
+         "lower_quartile": 43.839731534322105,
+         "median": 46.92295837402344,
+         "upper_quartile": 51.21014245351156
+      }
+   },
+   "1832240321": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 940.7714000000001,
+         "lower_quartile": 910.3333333333334,
+         "median": 936.0,
+         "upper_quartile": 967.6666666666666
+      },
+      "T2": {
+         "average": 47.93613333333334,
+         "lower_quartile": 44.10081195831299,
+         "median": 46.8942756652832,
+         "upper_quartile": 50.13587506612142
+      }
+   },
+   "1933988016": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 945.8321666666667,
+         "lower_quartile": 903.3333333333334,
+         "median": 937.6666666666666,
+         "upper_quartile": 977.25
+      },
+      "T2": {
+         "average": 46.107866666666666,
+         "lower_quartile": 41.736449559529625,
+         "median": 44.683712005615234,
+         "upper_quartile": 48.330026944478355
+      }
+   },
+   "1992250578": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 982.3618333333333,
+         "lower_quartile": 932.0833333333334,
+         "median": 975.8333333333334,
+         "upper_quartile": 1023.6666666666666
+      },
+      "T2": {
+         "average": 52.805366666666664,
+         "lower_quartile": 46.700389544169106,
+         "median": 50.397020975748696,
+         "upper_quartile": 56.02464358011881
+      }
+   },
+   "2004354879": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 1015.4937333333332,
+         "lower_quartile": 972.6666666666666,
+         "median": 1006.0,
+         "upper_quartile": 1044.6666666666667
+      },
+      "T2": {
+         "average": 53.27256666666667,
+         "lower_quartile": 47.62624740600586,
+         "median": 51.59894879659017,
+         "upper_quartile": 57.02775287628174
+      }
+   },
+   "2081203556": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 940.6916333333334,
+         "lower_quartile": 905.0,
+         "median": 931.0,
+         "upper_quartile": 964.6666666666666
+      },
+      "T2": {
+         "average": 47.133266666666664,
+         "lower_quartile": 42.74947420756022,
+         "median": 46.03686078389486,
+         "upper_quartile": 49.95565446217855
+      }
+   },
+   "2289628018": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 961.8874,
+         "lower_quartile": 920.0,
+         "median": 951.3333333333334,
+         "upper_quartile": 992.3333333333334
+      },
+      "T2": {
+         "average": 48.060833333333335,
+         "lower_quartile": 43.68306191762289,
+         "median": 46.67628542582194,
+         "upper_quartile": 50.47950140635172
+      }
+   },
+   "2349452383": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 943.1336666666666,
+         "lower_quartile": 899.0,
+         "median": 930.0,
+         "upper_quartile": 974.6666666666666
+      },
+      "T2": {
+         "average": 49.58493333333333,
+         "lower_quartile": 43.43909136454264,
+         "median": 47.00076166788737,
+         "upper_quartile": 52.30087153116862
+      }
+   },
+   "2354538033": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 921.0997000000001,
+         "lower_quartile": 885.6666666666666,
+         "median": 919.0,
+         "upper_quartile": 958.5833333333334
+      },
+      "T2": {
+         "average": 49.6137,
+         "lower_quartile": 44.511131286621094,
+         "median": 47.76165453592936,
+         "upper_quartile": 52.53450012207031
+      }
+   },
+   "2395739794": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 987.3163,
+         "lower_quartile": 936.0,
+         "median": 978.3333333333334,
+         "upper_quartile": 1029.0
+      },
+      "T2": {
+         "average": 48.6487,
+         "lower_quartile": 45.08518632253011,
+         "median": 47.65570068359375,
+         "upper_quartile": 50.86283906300863
+      }
+   },
+   "2426293957": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 935.73215,
+         "lower_quartile": 884.875,
+         "median": 931.5,
+         "upper_quartile": 996.625
+      },
+      "T2": {
+         "average": 52.35503333333333,
+         "lower_quartile": 47.869669596354164,
+         "median": 51.304505030314125,
+         "upper_quartile": 55.246810595194496
+      }
+   },
+   "2445433309": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 920.1485666666667,
+         "lower_quartile": 883.0,
+         "median": 913.3333333333334,
+         "upper_quartile": 950.6666666666666
+      },
+      "T2": {
+         "average": 47.477833333333336,
+         "lower_quartile": 42.90622425079346,
+         "median": 45.6829891204834,
+         "upper_quartile": 49.24429798126221
+      }
+   },
+   "2533902238": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 955.2051333333334,
+         "lower_quartile": 905.0,
+         "median": 941.0,
+         "upper_quartile": 993.9166666666666
+      },
+      "T2": {
+         "average": 46.1636,
+         "lower_quartile": 42.81012280782064,
+         "median": 45.698302586873375,
+         "upper_quartile": 48.54370435078939
+      }
+   },
+   "2549655995": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 956.69535,
+         "lower_quartile": 911.5,
+         "median": 956.5,
+         "upper_quartile": 1007.625
+      },
+      "T2": {
+         "average": 53.1569,
+         "lower_quartile": 47.49463081359863,
+         "median": 52.052768071492515,
+         "upper_quartile": 57.20118967692057
+      }
+   },
+   "2608919364": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 970.3136666666668,
+         "lower_quartile": 931.3333333333334,
+         "median": 960.6666666666666,
+         "upper_quartile": 996.4166666666666
+      },
+      "T2": {
+         "average": 48.0327,
+         "lower_quartile": 43.5927038192749,
+         "median": 46.28727149963379,
+         "upper_quartile": 49.81932735443115
+      }
+   },
+   "2632681780": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 982.9082000000001,
+         "lower_quartile": 940.05,
+         "median": 975.3,
+         "upper_quartile": 1016.8
+      },
+      "T2": {
+         "average": 47.3566,
+         "lower_quartile": 43.46466255187988,
+         "median": 46.104583740234375,
+         "upper_quartile": 49.71227836608887
+      }
+   },
+   "2798782097": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 968.7667,
+         "lower_quartile": 928.9166666666666,
+         "median": 965.3333333333334,
+         "upper_quartile": 1007.5833333333334
+      },
+      "T2": {
+         "average": 47.951699999999995,
+         "lower_quartile": 44.057382583618164,
+         "median": 47.101826985677086,
+         "upper_quartile": 50.81629594167074
+      }
+   },
+   "2799909844": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 937.9091666666667,
+         "lower_quartile": 894.6666666666666,
+         "median": 929.6666666666666,
+         "upper_quartile": 973.5833333333334
+      },
+      "T2": {
+         "average": 46.30393333333333,
+         "lower_quartile": 41.46143436431885,
+         "median": 44.42028363545736,
+         "upper_quartile": 48.746133168538414
+      }
+   },
+   "2820405944": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 924.1047,
+         "lower_quartile": 892.1666666666666,
+         "median": 922.0,
+         "upper_quartile": 958.0
+      },
+      "T2": {
+         "average": 46.18403333333333,
+         "lower_quartile": 41.3372917175293,
+         "median": 44.2631950378418,
+         "upper_quartile": 48.494489669799805
+      }
+   },
+   "2845934046": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 911.0836666666668,
+         "lower_quartile": 880.3333333333334,
+         "median": 909.1666666666666,
+         "upper_quartile": 941.9166666666666
+      },
+      "T2": {
+         "average": 49.1552,
+         "lower_quartile": 43.79532210032145,
+         "median": 47.31988779703776,
+         "upper_quartile": 51.8157901763916
+      }
+   },
+   "2952802776": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 913.0349,
+         "lower_quartile": 878.5,
+         "median": 912.5,
+         "upper_quartile": 943.0
+      },
+      "T2": {
+         "average": 46.768966666666664,
+         "lower_quartile": 42.29135926564535,
+         "median": 45.47507858276367,
+         "upper_quartile": 49.3791561126709
+      }
+   },
+   "3034724224": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 968.2044999999999,
+         "lower_quartile": 926.0,
+         "median": 960.0,
+         "upper_quartile": 1005.5833333333334
+      },
+      "T2": {
+         "average": 48.32805,
+         "lower_quartile": 42.751216650009155,
+         "median": 45.817440032958984,
+         "upper_quartile": 51.08310627937317
+      }
+   },
+   "3186642577": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 988.4466333333334,
+         "lower_quartile": 941.3333333333334,
+         "median": 981.0,
+         "upper_quartile": 1030.75
+      },
+      "T2": {
+         "average": 53.5339,
+         "lower_quartile": 46.3510799407959,
+         "median": 50.449313735961915,
+         "upper_quartile": 57.9413028717041
+      }
+   },
+   "3228261857": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 904.9137333333333,
+         "lower_quartile": 874.75,
+         "median": 899.3333333333334,
+         "upper_quartile": 928.1666666666666
+      },
+      "T2": {
+         "average": 47.14513333333334,
+         "lower_quartile": 42.19667625427246,
+         "median": 45.57908693949381,
+         "upper_quartile": 50.31544208526611
+      }
+   },
+   "3240248916": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 925.9528,
+         "lower_quartile": 896.0,
+         "median": 921.0,
+         "upper_quartile": 953.5
+      },
+      "T2": {
+         "average": 53.2266,
+         "lower_quartile": 48.48977820078532,
+         "median": 52.126870473225914,
+         "upper_quartile": 56.535770416259766
+      }
+   },
+   "3254663768": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 973.5949,
+         "lower_quartile": 923.3333333333334,
+         "median": 968.0,
+         "upper_quartile": 1018.8333333333334
+      },
+      "T2": {
+         "average": 55.67959999999999,
+         "lower_quartile": 49.76317596435547,
+         "median": 53.47932370503744,
+         "upper_quartile": 59.20866266886393
+      }
+   },
+   "3259046143": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 961.2563,
+         "lower_quartile": 905.3333333333334,
+         "median": 948.5,
+         "upper_quartile": 1011.8333333333334
+      },
+      "T2": {
+         "average": 51.502166666666675,
+         "lower_quartile": 46.245506604512535,
+         "median": 49.188636779785156,
+         "upper_quartile": 53.75077406565348
+      }
+   },
+   "3288753410": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 982.7638,
+         "lower_quartile": 914.875,
+         "median": 969.0,
+         "upper_quartile": 1028.5
+      },
+      "T2": {
+         "average": 50.3342,
+         "lower_quartile": 45.30334345499674,
+         "median": 48.99636205037435,
+         "upper_quartile": 53.94006093343099
+      }
+   },
+   "4124744090": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 971.0711,
+         "lower_quartile": 933.3333333333334,
+         "median": 965.3333333333334,
+         "upper_quartile": 1001.5
+      },
+      "T2": {
+         "average": 48.949333333333335,
+         "lower_quartile": 43.83674271901449,
+         "median": 46.6031608581543,
+         "upper_quartile": 51.367509524027504
+      }
+   },
+   "4189235477": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 931.7615333333333,
+         "lower_quartile": 900.6666666666666,
+         "median": 929.3333333333334,
+         "upper_quartile": 957.6666666666666
+      },
+      "T2": {
+         "average": 49.46883333333333,
+         "lower_quartile": 45.13649050394694,
+         "median": 48.04943974812826,
+         "upper_quartile": 51.937966664632164
+      }
+   },
+   "4895133686": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 878.4400999999999,
+         "lower_quartile": 842.6666666666666,
+         "median": 874.5,
+         "upper_quartile": 910.9166666666666
+      },
+      "T2": {
+         "average": 45.364599999999996,
+         "lower_quartile": 41.514458974202476,
+         "median": 44.04766082763672,
+         "upper_quartile": 47.466071128845215
+      }
+   },
+   "4976902847": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 944.5897,
+         "lower_quartile": 902.5,
+         "median": 931.0,
+         "upper_quartile": 972.5
+      },
+      "T2": {
+         "average": 57.0877,
+         "lower_quartile": 53.024537086486816,
+         "median": 56.75782775878906,
+         "upper_quartile": 60.75382328033447
+      }
+   },
+   "5436611577": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 948.6079,
+         "lower_quartile": 909.0833333333334,
+         "median": 940.3333333333334,
+         "upper_quartile": 981.5833333333334
+      },
+      "T2": {
+         "average": 47.56086666666666,
+         "lower_quartile": 43.000312169392906,
+         "median": 46.04394976298014,
+         "upper_quartile": 50.258819262186684
+      }
+   },
+   "6044732027": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 921.1603,
+         "lower_quartile": 867.25,
+         "median": 924.5,
+         "upper_quartile": 970.625
+      },
+      "T2": {
+         "average": 46.497816666666665,
+         "lower_quartile": 42.66599051157633,
+         "median": 45.9095458984375,
+         "upper_quartile": 49.712931632995605
+      }
+   },
+   "6070386109": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 934.4629,
+         "lower_quartile": 900.5,
+         "median": 929.5,
+         "upper_quartile": 962.0
+      },
+      "T2": {
+         "average": 47.87226666666667,
+         "lower_quartile": 44.36860179901123,
+         "median": 46.8373597462972,
+         "upper_quartile": 49.816399892171226
+      }
+   },
+   "6447935705": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 903.7471499999999,
+         "lower_quartile": 871.5,
+         "median": 896.5,
+         "upper_quartile": 930.0
+      },
+      "T2": {
+         "average": 47.47193333333334,
+         "lower_quartile": 44.09136199951172,
+         "median": 46.611470540364586,
+         "upper_quartile": 49.49749914805094
+      }
+   },
+   "7692549896": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 912.4351333333334,
+         "lower_quartile": 875.3333333333334,
+         "median": 904.1666666666666,
+         "upper_quartile": 937.3333333333334
+      },
+      "T2": {
+         "average": 46.812733333333334,
+         "lower_quartile": 43.04443518320719,
+         "median": 45.569620768229164,
+         "upper_quartile": 48.786044438680015
+      }
+   },
+   "7811710964": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 907.0086333333334,
+         "lower_quartile": 869.4166666666666,
+         "median": 903.0,
+         "upper_quartile": 938.3333333333334
+      },
+      "T2": {
+         "average": 44.04606666666667,
+         "lower_quartile": 40.42646853129069,
+         "median": 42.94646708170573,
+         "upper_quartile": 45.96994717915853
+      }
+   },
+   "8526071636": {
+      "disease": "normal",
+      "T1_pre": {
+         "average": 960.7172,
+         "lower_quartile": 921.0,
+         "median": 955.75,
+         "upper_quartile": 994.0
+      },
+      "T2": {
+         "average": 47.68683333333333,
+         "lower_quartile": 43.50014591217041,
+         "median": 46.57583745320638,
+         "upper_quartile": 50.490543047587074
+      }
+   },
+   "1009922527": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 1077.9720666666665,
+         "lower_quartile": 1036.6666666666667,
+         "median": 1067.6666666666667,
+         "upper_quartile": 1108.9166666666667
+      },
+      "T2": {
+         "average": 58.266866666666665,
+         "lower_quartile": 52.421261151631676,
+         "median": 56.30082893371582,
+         "upper_quartile": 61.727752685546875
+      }
+   },
+   "1362575301": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 962.4045,
+         "lower_quartile": 913.5,
+         "median": 955.5,
+         "upper_quartile": 1005.5
+      },
+      "T2": {
+         "average": 52.152625,
+         "lower_quartile": 46.773234367370605,
+         "median": 50.36154365539551,
+         "upper_quartile": 55.28125286102295
+      }
+   },
+   "1468510542": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 953.6364,
+         "lower_quartile": 895.25,
+         "median": 942.5,
+         "upper_quartile": 1002.0
+      },
+      "T2": {
+         "average": 55.95596666666666,
+         "lower_quartile": 46.438506762186684,
+         "median": 52.2626527150472,
+         "upper_quartile": 61.75036303202311
+      }
+   },
+   "1975018902": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 975.8727,
+         "lower_quartile": 930.6666666666666,
+         "median": 968.0,
+         "upper_quartile": 1015.0833333333334
+      },
+      "T2": {
+         "average": 51.17626666666666,
+         "lower_quartile": 43.709864934285484,
+         "median": 47.33925120035807,
+         "upper_quartile": 54.40906778971354
+      }
+   },
+   "2075569790": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 907.2232,
+         "lower_quartile": 858.0,
+         "median": 905.0,
+         "upper_quartile": 960.5
+      },
+      "T2": {
+         "average": 59.445949999999996,
+         "lower_quartile": 50.47605323791504,
+         "median": 57.823686599731445,
+         "upper_quartile": 66.7048568725586
+      }
+   },
+   "2418052331": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 1063.4706,
+         "lower_quartile": 984.25,
+         "median": 1058.0,
+         "upper_quartile": 1143.0
+      },
+      "T2": {
+         "average": 64.42295,
+         "lower_quartile": 57.02394104003906,
+         "median": 61.15193176269531,
+         "upper_quartile": 67.97200584411621
+      }
+   },
+   "2576208905": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 963.8633333333333,
+         "lower_quartile": 922.9166666666666,
+         "median": 958.3333333333334,
+         "upper_quartile": 1001.0
+      },
+      "T2": {
+         "average": 53.9475,
+         "lower_quartile": 46.63210868835449,
+         "median": 50.84599939982096,
+         "upper_quartile": 58.0387331644694
+      }
+   },
+   "3024311848": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 1013.2655333333332,
+         "lower_quartile": 961.25,
+         "median": 1012.6666666666666,
+         "upper_quartile": 1062.4166666666667
+      },
+      "T2": {
+         "average": 54.03008,
+         "lower_quartile": 46.2940710067749,
+         "median": 51.04061050415039,
+         "upper_quartile": 58.65905246734619
+      }
+   },
+   "3036822072": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 1021.8293,
+         "lower_quartile": 968.25,
+         "median": 1007.0,
+         "upper_quartile": 1061.3333333333333
+      },
+      "T2": {
+         "average": 47.16233333333333,
+         "lower_quartile": 43.644906997680664,
+         "median": 46.08090400695801,
+         "upper_quartile": 49.265554428100586
+      }
+   },
+   "3144747724": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 983.7328,
+         "lower_quartile": 925.0,
+         "median": 972.5,
+         "upper_quartile": 1041.5
+      },
+      "T2": {
+         "average": 51.98845,
+         "lower_quartile": 45.70615005493164,
+         "median": 49.575194358825684,
+         "upper_quartile": 56.99202585220337
+      }
+   },
+   "3190284257": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 971.2123666666666,
+         "lower_quartile": 926.6666666666666,
+         "median": 962.5,
+         "upper_quartile": 1002.75
+      },
+      "T2": {
+         "average": 52.96396666666667,
+         "lower_quartile": 45.7254311243693,
+         "median": 50.819845835367836,
+         "upper_quartile": 57.87098789215088
+      }
+   },
+   "3371897683": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 997.5154833333335,
+         "lower_quartile": 938.5,
+         "median": 996.0833333333334,
+         "upper_quartile": 1051.9166666666667
+      },
+      "T2": {
+         "average": 55.144749999999995,
+         "lower_quartile": 47.694655895233154,
+         "median": 52.16546058654785,
+         "upper_quartile": 59.040572007497154
+      }
+   },
+   "6333963808": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 960.2334000000001,
+         "lower_quartile": 918.6666666666666,
+         "median": 955.3333333333334,
+         "upper_quartile": 1003.0
+      },
+      "T2": {
+         "average": 49.17773333333333,
+         "lower_quartile": 44.6853084564209,
+         "median": 48.304937998453774,
+         "upper_quartile": 52.47637780507406
+      }
+   },
+   "6585781065": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 997.0688666666666,
+         "lower_quartile": 950.0,
+         "median": 992.8333333333334,
+         "upper_quartile": 1043.6666666666667
+      },
+      "T2": {
+         "average": 54.154133333333334,
+         "lower_quartile": 44.92340596516927,
+         "median": 50.14786911010742,
+         "upper_quartile": 59.38022263844808
+      }
+   },
+   "7372098053": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 1046.9926333333333,
+         "lower_quartile": 977.4166666666666,
+         "median": 1019.1666666666666,
+         "upper_quartile": 1087.25
+      },
+      "T2": {
+         "average": 56.1172,
+         "lower_quartile": 45.80641269683838,
+         "median": 52.31349500020345,
+         "upper_quartile": 62.98100471496582
+      }
+   },
+   "8016797770": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 931.6559333333335,
+         "lower_quartile": 892.4166666666666,
+         "median": 930.0,
+         "upper_quartile": 971.3333333333334
+      },
+      "T2": {
+         "average": 49.400233333333325,
+         "lower_quartile": 45.64659913380941,
+         "median": 48.49235407511393,
+         "upper_quartile": 51.94073454538981
+      }
+   },
+   "9592314922": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 936.2565000000001,
+         "lower_quartile": 890.0,
+         "median": 932.0,
+         "upper_quartile": 976.0
+      },
+      "T2": {
+         "average": 49.90153333333333,
+         "lower_quartile": 44.98598575592041,
+         "median": 48.35734558105469,
+         "upper_quartile": 52.814619064331055
+      }
+   },
+   "9759395234": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 964.35505,
+         "lower_quartile": 919.3125,
+         "median": 954.125,
+         "upper_quartile": 999.375
+      },
+      "T2": {
+         "average": 54.76160000000001,
+         "lower_quartile": 47.277700106302895,
+         "median": 50.92912292480469,
+         "upper_quartile": 58.1116426785787
+      }
+   },
+   "9831844469": {
+      "disease": "sarkoidose",
+      "T1_pre": {
+         "average": 977.9065499999999,
+         "lower_quartile": 916.625,
+         "median": 966.0,
+         "upper_quartile": 1029.875
+      },
+      "T2": {
+         "average": 52.880766666666666,
+         "lower_quartile": 46.9074068069458,
+         "median": 51.12489318847656,
+         "upper_quartile": 56.76778507232666
+      }
+   },
+   "1228797402": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 942.8937666666666,
+         "lower_quartile": 912.9166666666666,
+         "median": 945.3333333333334,
+         "upper_quartile": 977.0
+      },
+      "T2": {
+         "average": 57.21776666666667,
+         "lower_quartile": 50.3497896194458,
+         "median": 55.22055435180664,
+         "upper_quartile": 62.079611460367836
+      }
+   },
+   "1292622743": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 1051.1478333333332,
+         "lower_quartile": 1019.3333333333334,
+         "median": 1049.6666666666667,
+         "upper_quartile": 1084.6666666666667
+      },
+      "T2": {
+         "average": 51.21006666666667,
+         "lower_quartile": 47.820010821024574,
+         "median": 50.419551849365234,
+         "upper_quartile": 53.644155502319336
+      }
+   },
+   "1651720793": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 928.4601333333334,
+         "lower_quartile": 891.6666666666666,
+         "median": 922.6666666666666,
+         "upper_quartile": 957.6666666666666
+      },
+      "T2": {
+         "average": 46.95653333333333,
+         "lower_quartile": 43.08746846516927,
+         "median": 45.9438107808431,
+         "upper_quartile": 49.47428830464681
+      }
+   },
+   "1658044372": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 885.2879250000001,
+         "lower_quartile": 849.1875,
+         "median": 880.875,
+         "upper_quartile": 916.3125
+      },
+      "T2": {
+         "average": 48.82736666666667,
+         "lower_quartile": 43.77681541442871,
+         "median": 46.69306755065918,
+         "upper_quartile": 51.70559469858805
+      }
+   },
+   "1811684108": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 1001.4951333333333,
+         "lower_quartile": 965.1666666666666,
+         "median": 999.1666666666666,
+         "upper_quartile": 1035.3333333333333
+      },
+      "T2": {
+         "average": 49.34426666666667,
+         "lower_quartile": 45.571723302205406,
+         "median": 48.5991096496582,
+         "upper_quartile": 52.07663218180338
+      }
+   },
+   "2016463641": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 941.6988666666666,
+         "lower_quartile": 885.5833333333334,
+         "median": 948.8333333333334,
+         "upper_quartile": 995.3333333333334
+      },
+      "T2": {
+         "average": 50.42615,
+         "lower_quartile": 44.72022867202759,
+         "median": 48.60817050933838,
+         "upper_quartile": 54.54213905334473
+      }
+   },
+   "2032386764": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 1093.2697,
+         "lower_quartile": 981.0,
+         "median": 1049.0,
+         "upper_quartile": 1167.0
+      },
+      "T2": {
+         "average": 47.8551,
+         "lower_quartile": 44.92183971405029,
+         "median": 46.88043785095215,
+         "upper_quartile": 49.48763084411621
+      }
+   },
+   "2152359186": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 927.2063333333332,
+         "lower_quartile": 864.1666666666666,
+         "median": 932.1666666666666,
+         "upper_quartile": 992.0
+      },
+      "T2": {
+         "average": 58.221133333333334,
+         "lower_quartile": 51.692772229512535,
+         "median": 56.48484547932943,
+         "upper_quartile": 62.96984990437826
+      }
+   },
+   "2308057023": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 903.8995,
+         "lower_quartile": 863.3333333333334,
+         "median": 896.1666666666666,
+         "upper_quartile": 938.0833333333334
+      },
+      "T2": {
+         "average": 47.993500000000004,
+         "lower_quartile": 43.0663210550944,
+         "median": 45.82081985473633,
+         "upper_quartile": 50.709126790364586
+      }
+   },
+   "2409965502": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 1026.0885333333333,
+         "lower_quartile": 981.6666666666666,
+         "median": 1020.3333333333334,
+         "upper_quartile": 1059.6666666666667
+      },
+      "T2": {
+         "average": 53.060833333333335,
+         "lower_quartile": 49.251721700032554,
+         "median": 52.230018615722656,
+         "upper_quartile": 55.68911933898926
+      }
+   },
+   "2443497943": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 1047.7622000000001,
+         "lower_quartile": 1008.5,
+         "median": 1050.0,
+         "upper_quartile": 1089.0
+      },
+      "T2": {
+         "average": 57.518233333333335,
+         "lower_quartile": 50.55854511260986,
+         "median": 54.681336085001625,
+         "upper_quartile": 60.83604621887207
+      }
+   },
+   "2556411658": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 1020.4690666666665,
+         "lower_quartile": 971.4166666666666,
+         "median": 1008.6666666666666,
+         "upper_quartile": 1057.25
+      },
+      "T2": {
+         "average": 56.098299999999995,
+         "lower_quartile": 51.91316795349121,
+         "median": 54.96678034464518,
+         "upper_quartile": 58.838385264078774
+      }
+   },
+   "2835846344": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 1023.9062,
+         "lower_quartile": 979.0,
+         "median": 1017.8333333333334,
+         "upper_quartile": 1061.9166666666667
+      },
+      "T2": {
+         "average": 50.8947,
+         "lower_quartile": 45.12776152292887,
+         "median": 49.16620190938314,
+         "upper_quartile": 55.15364933013916
+      }
+   },
+   "2887524083": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 1039.1402,
+         "lower_quartile": 998.125,
+         "median": 1039.5,
+         "upper_quartile": 1084.875
+      },
+      "T2": {
+         "average": 55.58665,
+         "lower_quartile": 50.17944574356079,
+         "median": 54.585556983947754,
+         "upper_quartile": 59.66096878051758
+      }
+   },
+   "3211641981": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 1001.59375,
+         "lower_quartile": 966.375,
+         "median": 1015.0,
+         "upper_quartile": 1044.5
+      },
+      "T2": {
+         "average": 54.471149999999994,
+         "lower_quartile": 49.83099412918091,
+         "median": 53.261502265930176,
+         "upper_quartile": 57.81727886199951
+      }
+   },
+   "3352332956": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 962.9991666666666,
+         "lower_quartile": 930.0,
+         "median": 957.0,
+         "upper_quartile": 987.6666666666666
+      },
+      "T2": {
+         "average": 50.0365,
+         "lower_quartile": 46.05728975931803,
+         "median": 49.10901387532552,
+         "upper_quartile": 52.691562016805015
+      }
+   },
+   "3417384038": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 1065.09865,
+         "lower_quartile": 983.0,
+         "median": 1044.0,
+         "upper_quartile": 1133.75
+      },
+      "T2": {
+         "average": 56.61086666666666,
+         "lower_quartile": 51.5659236907959,
+         "median": 55.190821965535484,
+         "upper_quartile": 60.10915311177572
+      }
+   },
+   "4299548908": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 945.0019666666667,
+         "lower_quartile": 906.8333333333334,
+         "median": 936.3333333333334,
+         "upper_quartile": 973.4166666666666
+      },
+      "T2": {
+         "average": 45.78716666666667,
+         "lower_quartile": 41.6003049214681,
+         "median": 44.30407206217448,
+         "upper_quartile": 48.33638954162598
+      }
+   },
+   "6119308485": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 936.3303,
+         "lower_quartile": 888.5,
+         "median": 934.8333333333334,
+         "upper_quartile": 986.8333333333334
+      },
+      "T2": {
+         "average": 53.03466666666666,
+         "lower_quartile": 46.42623329162598,
+         "median": 50.094651540120445,
+         "upper_quartile": 55.130172411600746
+      }
+   },
+   "6782210452": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 951.592225,
+         "lower_quartile": 904.8125,
+         "median": 952.5,
+         "upper_quartile": 994.875
+      },
+      "T2": {
+         "average": 49.381750000000004,
+         "lower_quartile": 44.88236904144287,
+         "median": 47.572853088378906,
+         "upper_quartile": 51.47265958786011
+      }
+   },
+   "7427035588": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 1002.9093333333334,
+         "lower_quartile": 958.3333333333334,
+         "median": 1006.3333333333334,
+         "upper_quartile": 1046.1666666666667
+      },
+      "T2": {
+         "average": 54.6955,
+         "lower_quartile": 50.01605383555094,
+         "median": 52.89194869995117,
+         "upper_quartile": 57.24893887837728
+      }
+   },
+   "8454833669": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 936.8099399999999,
+         "lower_quartile": 874.65,
+         "median": 922.8,
+         "upper_quartile": 986.0
+      },
+      "T2": {
+         "average": 49.55576666666667,
+         "lower_quartile": 46.03429921468099,
+         "median": 48.65918286641439,
+         "upper_quartile": 51.94569524129232
+      }
+   },
+   "9228719465": {
+      "disease": "systemerkrankung",
+      "T1_pre": {
+         "average": 950.0557666666667,
+         "lower_quartile": 897.5833333333334,
+         "median": 942.0,
+         "upper_quartile": 996.6666666666666
+      },
+      "T2": {
+         "average": 56.05136666666667,
+         "lower_quartile": 48.093674977620445,
+         "median": 52.19473139444987,
+         "upper_quartile": 60.901306788126625
+      }
+   },
+   "3148458932": {
+      "disease": "sarkoidose",
+      "T2": {
+         "average": 54.54749999999999,
+         "lower_quartile": 46.51871267954508,
+         "median": 51.0700626373291,
+         "upper_quartile": 59.162473360697426
+      }
+   }
+}
